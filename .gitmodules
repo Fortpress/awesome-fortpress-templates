@@ -1,0 +1,171 @@
+[submodule "template-aerial"]
+	path = template-aerial
+	url = https://github.com/Fortpress/template-aerial
+[submodule "template-align"]
+	path = template-align
+	url = https://github.com/Fortpress/template-align
+[submodule "template-alpha"]
+	path = template-alpha
+	url = https://github.com/Fortpress/template-alpha
+[submodule "template-arcana"]
+	path = template-arcana
+	url = https://github.com/Fortpress/template-arcana
+[submodule "template-astral"]
+	path = template-astral
+	url = https://github.com/Fortpress/template-astral
+[submodule "template-big-picture"]
+	path = template-big-picture
+	url = https://github.com/Fortpress/template-big-picture
+[submodule "template-curve"]
+	path = template-curve
+	url = https://github.com/Fortpress/template-curve
+[submodule "template-dimension"]
+	path = template-dimension
+	url = https://github.com/Fortpress/template-dimension
+[submodule "template-directive"]
+	path = template-directive
+	url = https://github.com/Fortpress/template-directive
+[submodule "template-dopetrope"]
+	path = template-dopetrope
+	url = https://github.com/Fortpress/template-dopetrope
+[submodule "template-editorial"]
+	path = template-editorial
+	url = https://github.com/Fortpress/template-editorial
+[submodule "template-escape-velocity"]
+	path = template-escape-velocity
+	url = https://github.com/Fortpress/template-escape-velocity
+[submodule "template-ethereal"]
+	path = template-ethereal
+	url = https://github.com/Fortpress/template-ethereal
+[submodule "template-eventually"]
+	path = template-eventually
+	url = https://github.com/Fortpress/template-eventually
+[submodule "template-flow"]
+	path = template-flow
+	url = https://github.com/Fortpress/template-flow
+[submodule "template-forty"]
+	path = template-forty
+	url = https://github.com/Fortpress/template-forty
+[submodule "template-fractal"]
+	path = template-fractal
+	url = https://github.com/Fortpress/template-fractal
+[submodule "template-future-imperfect"]
+	path = template-future-imperfect
+	url = https://github.com/Fortpress/template-future-imperfect
+[submodule "template-grid"]
+	path = template-grid
+	url = https://github.com/Fortpress/template-grid
+[submodule "template-gymso"]
+	path = template-gymso
+	url = https://github.com/Fortpress/template-gymso
+[submodule "template-halcyonic"]
+	path = template-halcyonic
+	url = https://github.com/Fortpress/template-halcyonic
+[submodule "template-helios"]
+	path = template-helios
+	url = https://github.com/Fortpress/template-helios
+[submodule "template-highlights"]
+	path = template-highlights
+	url = https://github.com/Fortpress/template-highlights
+[submodule "template-hook"]
+	path = template-hook
+	url = https://github.com/Fortpress/template-hook
+[submodule "template-hyperspace"]
+	path = template-hyperspace
+	url = https://github.com/Fortpress/template-hyperspace
+[submodule "template-landed"]
+	path = template-landed
+	url = https://github.com/Fortpress/template-landed
+[submodule "template-layer"]
+	path = template-layer
+	url = https://github.com/Fortpress/template-layer
+[submodule "template-lens"]
+	path = template-lens
+	url = https://github.com/Fortpress/template-lens
+[submodule "template-line"]
+	path = template-line
+	url = https://github.com/Fortpress/template-line
+[submodule "template-massively"]
+	path = template-massively
+	url = https://github.com/Fortpress/template-massively
+[submodule "template-minimaxing"]
+	path = template-minimaxing
+	url = https://github.com/Fortpress/template-minimaxing
+[submodule "template-miniport"]
+	path = template-miniport
+	url = https://github.com/Fortpress/template-miniport
+[submodule "template-mirko"]
+	path = template-mirko
+	url = https://github.com/Fortpress/template-mirko
+[submodule "template-multiverse"]
+	path = template-multiverse
+	url = https://github.com/Fortpress/template-multiverse
+[submodule "template-paradigm-shift"]
+	path = template-paradigm-shift
+	url = https://github.com/Fortpress/template-paradigm-shift
+[submodule "template-parallelism"]
+	path = template-parallelism
+	url = https://github.com/Fortpress/template-parallelism
+[submodule "template-phantom"]
+	path = template-phantom
+	url = https://github.com/Fortpress/template-phantom
+[submodule "template-photon"]
+	path = template-photon
+	url = https://github.com/Fortpress/template-photon
+[submodule "template-point"]
+	path = template-point
+	url = https://github.com/Fortpress/template-point
+[submodule "template-prologue"]
+	path = template-prologue
+	url = https://github.com/Fortpress/template-prologue
+[submodule "template-read-only"]
+	path = template-read-only
+	url = https://github.com/Fortpress/template-read-only
+[submodule "template-simpleblog"]
+	path = template-simpleblog
+	url = https://github.com/Fortpress/template-simpleblog
+[submodule "template-simpleplus"]
+	path = template-simpleplus
+	url = https://github.com/Fortpress/template-simpleplus
+[submodule "template-solid-state"]
+	path = template-solid-state
+	url = https://github.com/Fortpress/template-solid-state
+[submodule "template-space"]
+	path = template-space
+	url = https://github.com/Fortpress/template-space
+[submodule "template-spectral"]
+	path = template-spectral
+	url = https://github.com/Fortpress/template-spectral
+[submodule "template-stellar"]
+	path = template-stellar
+	url = https://github.com/Fortpress/template-stellar
+[submodule "template-story"]
+	path = template-story
+	url = https://github.com/Fortpress/template-story
+[submodule "template-strata"]
+	path = template-strata
+	url = https://github.com/Fortpress/template-strata
+[submodule "template-striped"]
+	path = template-striped
+	url = https://github.com/Fortpress/template-striped
+[submodule "template-strongly-typed"]
+	path = template-strongly-typed
+	url = https://github.com/Fortpress/template-strongly-typed
+[submodule "template-telephasic"]
+	path = template-telephasic
+	url = https://github.com/Fortpress/template-telephasic
+[submodule "template-tessellate"]
+	path = template-tessellate
+	url = https://github.com/Fortpress/template-tessellate
+[submodule "template-twenty"]
+	path = template-twenty
+	url = https://github.com/Fortpress/template-twenty
+[submodule "template-txt"]
+	path = template-txt
+	url = https://github.com/Fortpress/template-txt
+[submodule "template-verti"]
+	path = template-verti
+	url = https://github.com/Fortpress/template-verti
+[submodule "template-zerofour"]
+	path = template-zerofour
+	url = https://github.com/Fortpress/template-zerofour
