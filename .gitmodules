@@ -169,3 +169,6 @@
 [submodule "template-zerofour"]
 	path = template-zerofour
 	url = https://github.com/Fortpress/template-zerofour
+[submodule "template-squel"]
+	path = template-squel
+	url = https://github.com/Fortpress/template-squel
